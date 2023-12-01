@@ -1,4 +1,5 @@
 CC=rustc
+LDFLAGS = -g
 
 BIN = part1 part2
 
